@@ -1,0 +1,18 @@
+.content {
+    width: fit-content;
+    height: fit-content;
+    margin: 15% auto 0 auto;
+}
+.text {
+    font-weight: bold;
+    font-size:xx-large;
+    background-color:white;
+}
+
+.palindrom {
+    background-color: red;
+}
+
+.numbers {
+    background-color: blue;
+}
